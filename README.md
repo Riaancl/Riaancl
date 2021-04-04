@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Riaan Claassen
-- 👀 I’m interested in AI, ML & DL, business & entrepreneurship management.
+- 👀 I’m interested in AI, ML & DL, business & entrepreneurship management, and game theory.
 - 🌱 I’m currently learning data science, ML & python programming.
 - 💞️ I’m looking to collaborate on any AI relevant project to build my portfolio.
 - 📫 Feel free to direct message me here on GitHub @Riaancl or email claassenrj@gmail.com
